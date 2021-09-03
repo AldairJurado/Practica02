@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout <<"hello world" <<endl;
+    cout <<"prueba de makefile" <<endl;
     return 0;
 }
